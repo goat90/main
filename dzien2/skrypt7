@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Napisz ‘skryptA’ , który utworzy i uruchomi ‘skryptB’. Utworzy on i uruchomi kolejny skrypt o nazwie ‘skryptC’ , który wyświetli na ekranie tekst: I DO IT!
+
+echo -e "#!/bin/bash\necho -e '#!/bin/bash\necho I DO IT!'>skrypt7C \nchmod +x skrypt7C\n./skrypt7C"> skrypt7B
+chmod +x skrypt7B 
+./skrypt7B

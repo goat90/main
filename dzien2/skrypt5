@@ -1,0 +1,6 @@
+#/bin/bash
+
+echo '"Uśmiechnij się"' #”Usmiechnij się” (wraz z cudzyslowami)
+echo \"Uśmiechnij się\" #"Usmiechnij się” (wraz z cudzyslowami, ale bez użycia apostrofów)
+echo \'Uśmiechnij się\' #‘Usmiechnij się’ (wraz z apostrofami)
+echo "'Uśmiechnij się'"

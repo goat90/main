@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -e "Każdy\nwyraz\nzaczyna\nsie\nod\nnowej\nlinii\ta teraz tabulacja"

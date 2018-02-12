@@ -1,0 +1,16 @@
+#!/bin/bash
+x=2
+echo "Wartość zmiennej x to $x" #wydrukuje Wartość zmiennej x to 2
+echo -ne "Usłyszysz dzwonek\a"
+echo "Polecenie date pokaże: `date`"
+
+echo '$USER' #nie wypisze twojego loginu
+
+x=`ls -la $PWD`
+echo $x                            #pokaże rezultat polecenia
+
+echo $(ls -la $PWD)
+
+echo \$HOME  #i jest napis $HOME
+
+echo "$HOME"

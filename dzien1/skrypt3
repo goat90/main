@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo $(seq 20) > plik
+
+echo 'Stworzyłem plik "plik" z wkładką'

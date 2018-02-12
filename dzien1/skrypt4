@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#za każdym razem po wywyołaniu skryptu, dopisywana jest do plik2 ścieżka katalogu, w którym go wywyołano
+echo $PWD >> plik2

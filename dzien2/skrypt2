@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Pole kwadratu=$[$1*$1]" #przyjmuję, że bok kwadratu to pierwsza podana wartośći
+
+echo "Pole prostokąta=$[$1*$2]"
+
+echo "Pole trapezu=$[(($1+$2)*$3)/2]"

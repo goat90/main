@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Napisz skrypt, który zapisuje w pliku nazywającym się tak samo jak pierwszy parametr wartości wszystkich parametrów.
+
+echo $* > $1

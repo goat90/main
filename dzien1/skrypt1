@@ -1,0 +1,6 @@
+#!/bin/bash
+
+x=`seq -s\  1 2 10`
+
+echo "Wyświetlamy cyferki nieparzyste z pierwszej 10"
+echo "$x"

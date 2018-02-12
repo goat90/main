@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo 'Nie wyświętlę nazwy użytkownika - $USER'
+
+echo "Wyświetlę nazwię użytkownika - $USER"
+

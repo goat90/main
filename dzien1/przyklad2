@@ -1,0 +1,5 @@
+#!/bin/bash
+echo -ne "jakiś napis"
+echo "jakiś napis" #wydrukuje tekst na ekranie
+echo dupa
+echo "dupa"
