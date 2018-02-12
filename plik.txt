@@ -1,3 +1,5 @@
 wincyj dupy
 123
 dupa dupa dupa
+
+pominięcie poczekalni (git add) = -a
