@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Napisz skrypt, który wyświetli aktualną pełną nazwę dnia tygodnia, miesiąca oraz numer dnia roku w formacie:
+# Miesiąc: nazwa_miesiąca,
+# Dzień: nazwa_dnia
+# Nr: nr_dnia
+
+echo Miesiąc: `date +%B`
+echo Dzień: `date +%A`
+echo Nr: `date +%j`
