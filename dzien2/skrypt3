@@ -1,3 +1,0 @@
-#!/bin/bash
-#uwzględniam tylko liczby całkowite
-echo "Średnia z podanych parametrów to $[($1+$2+$3)/$#]"

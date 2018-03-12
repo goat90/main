@@ -1,9 +1,0 @@
-#!/bin/bash
-
-#Napisz skrypt, który przyjmuje jeden parametr – liczbę n i wypisuje na ekranie wszystkie litery alfabetu , ich liczbę oraz n-tą literę alfabetu.
-
-read -p "Podaj numer litery alfabetu (1-26)" cyfra
-
-alfabet=(A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
-litera=$[$cyfra-1]
-echo "Pod numerem $cyfra, znajduje się litera: ${alfabet[$litera]}"

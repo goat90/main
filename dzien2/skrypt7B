@@ -1,5 +1,0 @@
-#!/bin/bash
-echo -e '#!/bin/bash
-echo I DO IT!'>skrypt7C 
-chmod +x skrypt7C
-./skrypt7C
